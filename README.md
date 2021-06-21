@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pyare Lal
-- 👀 I’m interested in Machine learnig, Deep Learning and GIS
+- 👀 I’m interested in Machine learning, Deep Learning and GIS
 - 🌱 I’m currently learning Geoinformatics
 - 💞️ I’m looking to collaborate on Mobile Laser Scanner based classification using Deep Learning.
 - 📫 How to reach me : through email - pyarelalcivil@gmail.com
